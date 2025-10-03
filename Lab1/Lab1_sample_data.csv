@@ -1,0 +1,51 @@
+student_id,score,major,grad_year,pass,grade
+318520509,79.85,Theater,2027,True,C
+741936203,32.79,Biology,2026,True,F
+171714418,32.99,Biology,2025,False,F
+556894482,54.6,Electrical Engineering Tech,2028,False,F
+512360227,64.01,Mathematics,2029,False,D
+14634942,51.91,Biology,2027,True,F
+633303095,71.06,Business,2025,False,C
+916545252,19.29,Physics,2027,False,F
+76668134,22.39,Computer Science,2026,True,F
+421313632,92.45,Business,2027,False,A
+503004822,28.17,Electrical Engineering Tech,2026,False,F
+368356213,1.07,Theater,2028,False,F
+180448319,62.42,Biology,2027,True,D
+660225021,5.82,Chemistry,2029,True,F
+112282635,60.01,Computer Science,2025,True,D
+459153646,89.97,English,2027,True,B
+813290662,54.89,Mathematics,2029,True,F
+822056281,64.27,Physics,2026,False,D
+958074143,3.33,Theater,2026,False,F
+307554250,5.02,Psychology,2025,False,F
+705417116,45.16,Psychology,2029,True,F
+19360817,5.98,Chemistry,2026,True,F
+483484748,25.23,Physics,2027,True,F
+32794935,52.12,Mathematics,2026,True,F
+236250816,31.78,Mathematics,2025,True,F
+708078372,73.67,English,2027,True,C
+311028425,21.8,Biology,2026,True,F
+71750515,6.03,Biology,2026,False,F
+343747012,30.14,Computer Science,2026,False,F
+496647071,27.61,Electrical Engineering Tech,2029,True,F
+278657740,25.05,Psychology,2028,False,F
+400773232,62.0,Psychology,2027,False,D
+715548642,77.29,English,2025,True,C
+592659871,65.21,Computer Science,2025,True,D
+419128734,22.47,English,2025,True,F
+509245335,49.98,Electrical Engineering Tech,2028,True,F
+476291841,32.22,Physics,2027,False,F
+131214322,80.8,Electrical Engineering Tech,2026,False,B
+864255571,64.02,Biology,2025,False,D
+496324526,19.83,Biology,2029,False,F
+647157151,31.71,Chemistry,2028,False,F
+700926149,48.82,Business,2029,False,F
+544766881,0.33,Psychology,2025,False,F
+329303118,13.32,Biology,2028,False,F
+578090078,94.04,Psychology,2029,False,A
+312730655,68.47,English,2029,True,D
+218302887,86.08,English,2025,True,B
+548033415,49.2,Business,2025,False,F
+625482617,86.93,Business,2029,True,B
+569577192,6.37,Chemistry,2026,True,F
